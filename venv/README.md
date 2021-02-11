@@ -1,1 +1,1 @@
-My repository for test project.
+My repository for test project. Try to work with git.
