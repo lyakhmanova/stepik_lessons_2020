@@ -1,0 +1,6 @@
+input#idfirst
+//input[@name="lastname"]
+input.input-field-third
+//input[@evgeniya_attribbute='phone_attribute']
+//input[@class="input-field-fifth"]
+
